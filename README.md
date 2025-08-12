@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-Hi, I’m **Melodic17** –  
+Hi, I’m **Melodic17**  
 A tech enthusiast with a focus on **endpoint automation**, **cloud-driven device management**, and **hands-on IT solutions**.  
 When I’m not managing devices via Intune, I’m scripting, tinkering in my homelab, or building solutions to make IT life easier.
 
