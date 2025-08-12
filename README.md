@@ -26,5 +26,5 @@ This repo contains:
 ---
 
 📬 *Let’s connect & share knowledge!*  
-[![GitHub followers](https://img.shields.io/github/followers/melodic17?style=social)](https://github.com/melodic17)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](#)
+[GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/melodic17)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathias-melliger-b3a091171/)
