@@ -12,7 +12,7 @@
 
 Hi, I’m **Melodic17**  
 A tech enthusiast with a focus on **endpoint automation**, **cloud-driven device management**, and **hands-on IT solutions**.  
-When I’m not managing devices via Intune, I’m scripting, tinkering in my homelab, or building solutions to make IT life easier.
+When I’m not letting my gray hair multiply by the likes of **Intune** **Entra** **Exchange Online** **etc..*, I like to tinker in my Homelab
 
 ---
 
