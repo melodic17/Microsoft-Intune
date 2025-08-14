@@ -13,7 +13,7 @@
 Hi, I’m **Melodic17**  
 A tech enthusiast with a focus on **endpoint automation**, **cloud-driven device management**, and **hands-on IT solutions**.  
 
-When I’m not letting my gray hair multiply courtesy of  
+When I'm not battling the gray-hair-inducing challenges of
 ![Intune](https://img.shields.io/badge/Intune-0078FF?logo=microsoft&logoColor=white)  
 ![Entra ID](https://img.shields.io/badge/Entra_ID-3BA55D?logo=microsoftazure&logoColor=white)  
 ![Exchange Online](https://img.shields.io/badge/Exchange_Online-0A1F44?logo=microsoftoutlook&logoColor=white)  
