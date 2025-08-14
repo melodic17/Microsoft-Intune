@@ -24,7 +24,7 @@ breaking things *on purpose* just to put them back together,
 faster, cleaner, and occasionally with a suspicious amount of RGB.  
 
 > 🎣 Some people go fishing to relax…  
-> I spin up containers, VLANs, and services until the fans sound like a jet.
+> I spin up containers, VLANs, and services...
 
 ---
 
