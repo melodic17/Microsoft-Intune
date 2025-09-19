@@ -13,9 +13,9 @@ Worksheet_Crafter_Setup_Full.exe
 
 ---
 
-### **Create helper scripts**  
+### **Create helper scripts**
 
-#### **install.ps1**  
+#### **install.ps1**
 ```powershell
 Param (
     [parameter(Mandatory = $true)]
@@ -30,9 +30,11 @@ Start-Process 'Worksheet_Crafter_Setup_Full.exe' -ArgumentList $param -Wait
 
 Stop-Transcript
 
+```
 
 
-uninstall.ps1
+#### **uninstall.ps1**
+```powershell
 $PackageName = "WorksheetCrafter"
 
 Start-Transcript -Path "$env:ProgramData\Microsoft\IntuneManagementExtension\Logs\$PackageName-uninstall.log" -Force
@@ -40,15 +42,3 @@ Start-Transcript -Path "$env:ProgramData\Microsoft\IntuneManagementExtension\Log
 Start-Process '"C:\Program Files\Worksheet Crafter\unins000.exe"' -ArgumentList '/SILENT /SUPPRESSMSGBOXES /LOG=c:\temp\uninstall.log' -Wait
 
 Stop-Transcript
-
-
-check.ps1
-$ProgramName = "WorksheetCrafter"
-$ProgramPath = "C:\Program Files\Worksheet Crafter\WorksheetCrafter.exe"
-$ProgramVersion_target = '2025.1.11'
-$ProgramVersion_current = [System.Diagnostics.FileVersionInfo]::GetVersionInfo($ProgramPath).FileVersion
-
-if($ProgramVersion_current -ge [System.Version]$ProgramVersion_target){
-    Write-Host "Found it!"
-}
-
