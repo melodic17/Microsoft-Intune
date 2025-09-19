@@ -1,4 +1,4 @@
-# 🚀 Microsoft Intune – Admin Toolkit
+# 🚀 Microsoft Intune Admin
 
 > **Automating Endpoint Management like a Pro** 🛠️
 
