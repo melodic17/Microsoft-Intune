@@ -2,6 +2,19 @@
 # Language = de-de (German)
 # Word, Excel and PowerPoint only
 
+#### Office LTSC Configuration Script
+
+This XML configuration file is used with the Office Deployment Tool (ODT) to install **Microsoft Office LTSC 2024 (64-bit, German)**.  
+It deploys only **Word, Excel, and PowerPoint**, while excluding apps like Outlook, OneNote, Access, Publisher, and others.  
+
+Key features:
+- **Volume License edition** (ProPlus2024Volume) with custom product key.  
+- **German language pack (de-de)** preconfigured.  
+- **Auto activation enabled** and older MSI-based Office versions are removed.  
+- Custom default save formats set for Excel, PowerPoint, and Word.  
+
+This setup is optimized for enterprise deployment via Intune or similar management solutions.
+
 
 <Configuration ID="3a3dc385-1fe6-4ad6-ab67-47c70843258f">
   <Add OfficeClientEdition="64" Channel="PerpetualVL2024" OfficeMgmtCOM="TRUE">
